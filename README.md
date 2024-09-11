@@ -1,1 +1,1 @@
-Live Link: [Click Here](https://66e185d41dc00a02ad517b13--unrivaled-sunflower-635b60.netlify.app/)
+Live Link: [Click Here](https://unrivaled-sunflower-635b60.netlify.app)
