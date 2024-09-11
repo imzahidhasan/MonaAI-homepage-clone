@@ -2,7 +2,7 @@ import youtube_right from "../assets/youtube_right.png"
 const YoutubeBanner1 = () => {
     return (
         <section classNameName=" container mx-auto text-white py-16 px-4">
-            <h1 class="mx-auto text-center mb-[16px] w-full text-[32px] font-semibold text-white/[0.9] lg:w-full lg:text-[48px]">YouTube Translation: Two Tiers to Suit Your Needs</h1>
+            <h1 className="mx-auto text-center mb-[16px] w-full text-[32px] font-semibold text-white/[0.9] lg:w-full lg:text-[48px]">YouTube Translation: Two Tiers to Suit Your Needs</h1>
             <div className="flex w-full flex-col items-center justify-between lg:flex-row  xl:0 px-[20px]">
                 <div className="w-full lg:w-2/5 order-last mt-[40px] xl:mt-0">
                     <img src={youtube_right} alt="" />
